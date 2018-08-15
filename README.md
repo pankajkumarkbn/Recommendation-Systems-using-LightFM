@@ -10,3 +10,7 @@ python systems.py
 ```
 
 Change the user Ids in the last line of Function call according to your preference.
+
+This is what it should look like - 
+
+![A Output screen](result.jpeg)
