@@ -13,4 +13,4 @@ Change the user Ids in the last line of Function call according to your preferen
 
 This is what it should look like - 
 
-![A Output screen](result.jpeg)
+![A Output screen](result.jpg)
