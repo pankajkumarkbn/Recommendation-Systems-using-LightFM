@@ -13,4 +13,4 @@ Change the user Ids in the last line of Function call according to your preferen
 
 This is what it should look like - 
 
-![A Output screen](result.jpg)
+![A Output screen](https://github.com/PravinVedurla/Recommendation-Systems-using-LightFM/raw/master/result.JPG)
